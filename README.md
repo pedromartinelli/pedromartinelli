@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, i'm Pedro Martinelli 👋
 
-<!--
-**pedromartinelli/pedromartinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer, currently studying at [RocketSeat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current Stack
+- :zap: Main Language: `Javascript`
+- :sparkles: Front-end: `Reactjs` `HTML5` `CSS3` `Javascript`
+- :pencil: Backend: `Nodejs`
+- :construction: Version code control: `Git & Github`
+- :wrench: Tools: `VScode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- 📧 Email: p.martinellinunes@gmail.com
