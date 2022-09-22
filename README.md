@@ -5,7 +5,7 @@ I'm a Web Developer, currently studying at [RocketSeat](https://www.rocketseat.c
 
 #### Current Stack
 - :zap: Main Language: `Javascript`
-- :sparkles: Front-end: `Reactjs` `  TailwindCSS` `HTML5` `CSS3` `Javascript`
+- :sparkles: Front-end: `Reactjs` `HTML5` `CSS3` `Javascript`
 - :pencil: Backend: `Nodejs` `Express`
 - :construction: Version code control: `Git & Github`
 - :wrench: Tools: `VScode`
