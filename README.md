@@ -4,7 +4,7 @@
 I'm a Web Developer, currently studying at [RocketSeat](https://www.rocketseat.com.br/). 📚
 
 #### Current Stack
-- :zap: Main Language: `Javascript`
+- :zap: Main Language: `Javascript` `Typescript`
 - :sparkles: Front-end: `Reactjs` `HTML5` `CSS3` `styled-components`
 - :pencil: Backend: `Nodejs` `Express`
 - :construction: Version code control: `Git & Github`
