@@ -1,7 +1,7 @@
 ### Hi there, i'm Pedro Martinelli 👋
 
 #### About
-I'm a Web Developer, currently studying at [RocketSeat](https://www.rocketseat.com.br/). 📚
+I'm a Web Developer, currently working on freelances. 📚
 
 #### Current Stack
 - :zap: Main Language: `Javascript` `Typescript`
