@@ -14,5 +14,6 @@ Software Developer at Findes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinelli&layout=donut&theme=dark&show_icons=true)](https://github.com/pedromartinelli/github-readme-stats)
 
 <br/>
+
 #### Contacts
 - 📧 Email: p.martinellinunes@gmail.com
